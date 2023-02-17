@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&family=Wellfleet&display=swap");
+
+body {
+  background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/04/rick-and-morty-wallpaper-portal-wallpaper-010-920x518.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#root {
+  background-image: url(fundoCard.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 500px;
+  height: 700px;
+}
+
+#cardHeader {
+  text-align: center;
+}
+
+img {
+  margin-top: 60px;
+  margin-left: 56px;
+  width: 389px;
+  height: 253px;
+}
+#lorem {
+  font-family: "Patrick Hand SC", cursive;
+  font-family: "Wellfleet", cursive;
+  padding-top: 35px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.flex-container {
+  font-family: "Patrick Hand SC", cursive;
+  font-family: "Wellfleet", cursive;
+  font-weight: bold;
+  padding-left: 50px;
+}
+
+#labelDigite {
+  color: white;
+}
